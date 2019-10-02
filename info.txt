@@ -1,0 +1,7 @@
+Software for the Daktronics Galaxy 3400 LED sign is the Venus-1500.  This software is available for free with a 90 day trial.  After this 90 days, you are required to have a license.
+
+Homepage:
+  https://www.daktronics.com/en-us
+
+Download site:
+  https://www.daktronics.com/en-us/support/venus-1500/download
