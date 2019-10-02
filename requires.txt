@@ -2,4 +2,5 @@ Required equipment:
   1) DB25 rs232 null modem/crossover cable
   2) Windows 8 or higher OS
   3) Proper drivers installed for the cable
-  4) Patience... lots of patience
+  4) Venus 1500 software installed and updated
+  5) Patience... lots of patience
