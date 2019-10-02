@@ -1,0 +1,19 @@
+Troubleshooting:
+
+If you come across issues when attempting to publish to the sign, the chances of knowing exactly which step failed are low, but the steps to fix them are all the same.
+
+If you start the software before the sign is fully-power cycled, it will fail to connect
+If you start the computer without plugging in the cables, it will fail to connect
+If you do not power cycle the sign AFTER plugging in the cables, it may fail to connect (our experience is it fails)
+If you successfully publish while connected, and attempt to connect again to re-publish after editing, it will fail to connect
+If you unsuccessfully publish while connected, it will fail to connect
+
+If any of the situations above happen, follow the fix action steps below:
+
+1) Reseat all cables
+2) Power cycle sign
+3) Power cycle computer
+4) Once sign is powered-on and displaying previously-published messages, start software
+5) Publish to sign
+
+(Look familiar?  They are the same steps to initially set it up.  Basically, you are just setting up from scratch every time it doesn't succeed.)
