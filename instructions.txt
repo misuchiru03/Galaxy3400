@@ -6,3 +6,5 @@ Instructions to publishing to the sign:
 4) Reboot computer
 5) Once sign is fully-power cycled (displaying previously-published messages), start Venus 1500 software
 6) Click "Publish to Display"
+
+If you have successfully published to the sign and wish to edit the file and republish, you MUST start from step 1 again.  If you are having issues, please read the troubleshooting.txt file
