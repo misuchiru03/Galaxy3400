@@ -1,0 +1,8 @@
+Instructions to publishing to the sign:
+
+1) Configure messages to post using Venus 1500 configuration software (installed with Venus 1500)
+2) Plug all cables into both computer and sign port
+3) Power cycle the sign
+4) Reboot computer
+5) Once sign is fully-power cycled (displaying previously-published messages), start Venus 1500 software
+6) Click "Publish to Display"
